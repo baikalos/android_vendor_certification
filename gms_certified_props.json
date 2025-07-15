@@ -1,14 +1,14 @@
 {
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7",
-  "FINGERPRINT": "google/panther_beta/panther:16/BP31.250523.010/13667654:user/release-keys",
+  "MODEL": "Pixel 8 Pro",
+  "FINGERPRINT": "google/husky/husky:16/BP2A.250705.008/13578956:user/release-keys",
   "BRAND": "google",
-  "PRODUCT": "panther_beta",
-  "DEVICE": "panther",
+  "PRODUCT": "husky_beta",
+  "DEVICE": "husky",
   "RELEASE": "16",
-  "ID": "BP31.250523.010",
-  "INCREMENTAL": "13667654",
-  "SECURITY_PATCH": "2025-06-05",
+  "ID": "BP2A.250705.008",
+  "INCREMENTAL": "13578956",
+  "SECURITY_PATCH": "2025-07-05",
   "DEVICE_INITIAL_SDK_INT": "32",
   "SDK_INT": "32"
 }
